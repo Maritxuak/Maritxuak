@@ -39,9 +39,7 @@
 
 ---
 
-### :fire: Моя статистика: :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Maritxuak&locale=ru)](https://git.io/streak-stats)
 <!--
 **Maritxuak/Maritxuak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
